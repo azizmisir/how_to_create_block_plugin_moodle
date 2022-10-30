@@ -14,3 +14,5 @@ blocks/simplehtml/
  |-- version.php
 
 ```
+
+There's also a [tutorial](https://docs.moodle.org/dev/Blocks) about Blocks with more details.
